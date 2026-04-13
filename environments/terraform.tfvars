@@ -1,0 +1,2 @@
+project     = "multilogistics"
+environment = "prod"
